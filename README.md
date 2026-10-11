@@ -4,7 +4,7 @@
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=ix1dx1%2Fgithub-vistors-badge&label=regected&labelColor=%23f1bd37&countColor=%233c050f&style=flat-square&labelStyle=upper)
 
 [<img width="300" height="400" alt="Untitled51_20261009015829" src="https://github.com/user-attachments/assets/0ab23ec2-a12e-454d-8f1f-e5267081a45a" />
-](https://github.com/sHarkieeii)
+](https://github.com/moegect)
 
 $${\color{gold}regect\ fictkin\ and\ yume}$$
 
