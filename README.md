@@ -5,7 +5,7 @@
 
 </div align="center">
  
-  $${\color{687981}click\ to\ go\ to\ main\ account}$$
+  $${\color{687981}click\ to\ go\ to\ main\ account\ ⤵︎}$$
 
   <div align="center">
     
